@@ -1,0 +1,5 @@
+com\soft\service\IUserService.class
+com\soft\action\UserAction.class
+com\soft\dao\impl\UserDAOImpl.class
+com\soft\dao\IUserDAO.class
+com\soft\service\impl\UserServiceImpl.class
